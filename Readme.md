@@ -50,10 +50,8 @@ The below fields can be changed in Edit user dialog box
 - First Name
 - Last Name
 - Telephone 
-
 **_Note:_** A country code must be entered before the full national phone number
 - Language
-
 **_Note:_** The list of available languages to choose are:
 - English (default)
 - Deutsch
@@ -80,10 +78,10 @@ The below steps explains how the user can reset the password
 ![300X300](images/ChangePassword_4.png)
 
 * **Note :** The password must contain
-a.  At least 8 characters
-b. Uppercase or lowercase characters or both
-c. A special character
-d. Numerical digits 0-9
+-   At least 8 characters
+-  Uppercase or lowercase characters or both
+-  A special character
+-  Numerical digits 0-9
 	_The password is strong when it includes all the above conditions_
 
 5. Re-enter the password 
