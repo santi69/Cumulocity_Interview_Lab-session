@@ -20,7 +20,7 @@ You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
 
 ### Logging into Cumulocity IoT platform
 ---------------------------------------------------------------------------------------------
-![Login](images/Cumolocity_IoT_Login_Page_1.png =60X50)
+![Login](images/Cumolocity_IoT_Login_Page_1.png){:height="50%" width="50%"}
 
 Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform 
 
@@ -51,10 +51,10 @@ The below fields can be changed in Edit user dialog box
 - Last Name
 - Telephone 
 
-    **_Note:_** A country code must be entered before the full national phone number
+**_Note:_** A country code must be entered before the full national phone number
 - Language
 
- **_Note:_** The list of available languages to choose are:
+**_Note:_** The list of available languages to choose are:
 - English (default)
 - Deutsch
 - Spanish
@@ -80,7 +80,7 @@ The below steps explains how the user can reset the password
 ![300X300](images/ChangePassword_4.png)
 
 * **Note :** The password must contain
-[]. At least 8 characters
+[x]. At least 8 characters
 []. Uppercase or lowercase characters or both
 []. A special character
 []. Numerical digits 0-9
