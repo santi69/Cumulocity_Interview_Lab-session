@@ -20,7 +20,7 @@ You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
 
 ### Logging into Cumulocity IoT platform
 ---------------------------------------------------------------------------------------------
-![Login Screen](images/Cumolocity_IoT_Login_Page_1.png=250X250)
+![300X300](images/Cumolocity_IoT_Login_Page_1.png)
 
 Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform 
 
@@ -31,7 +31,7 @@ Enter your _login credentials_ and click on _Login_ button to enter the Cumuloci
 
 After successful login , you will be redirected to _Cockpit_ - the Cumulocity IoT platform.
 
-![Login](images/Login_page_2.png=250X250)
+![300X300](images/Login_page_2.png)
 
 
 ### User Settings 
@@ -43,7 +43,7 @@ To change user specific details
 
 A pop-up dialog box ** _Edit user_** appreas on the browser 
 
-![EditUser](images/EditUser_3.png=250X250)
+![300X300](images/EditUser_3.png)
 
 #### Updating the user specific details in the Edit user dialog box
 The below fields can be changed in Edit user dialog box
@@ -53,16 +53,16 @@ The below fields can be changed in Edit user dialog box
     **_Note:_** A country code must be entered before the full national phone number
 - Language
  **_Note:_** The list of available languages to choose are:
---- English (default)
---- Deutsch
---- Spanish
---- French
---- Korean
---- Japanese
---- Polish
---- Brazilian Portuguese
---- Russian
---- Chinese 
+- English (default)
+- Deutsch
+- Spanish
+- French
+- Korean
+- Japanese
+- Polish
+- Brazilian Portuguese
+- Russian
+- Chinese 
 
 **Comment:**  Assuming Username, Login alias and Email can´t be editted.
 
@@ -75,7 +75,7 @@ The below steps explains how the user can reset the password
 2. Click on User settings 
 3. Click on Change password button under Login options
 4. Enter the new password
-![Change password](images/ChangePassword_4.png=250X250)
+![300X300](images/ChangePassword_4.png)
 
 * **Note :** The password must contain
 a. At least 8 characters
