@@ -80,10 +80,10 @@ The below steps explains how the user can reset the password
 ![300X300](images/ChangePassword_4.png)
 
 * **Note :** The password must contain
-i. At least 8 characters
-ii. Uppercase or lowercase characters or both
-iii. A special character
-iv. Numerical digits 0-9
+a. At least 8 characters
+b. Uppercase or lowercase characters or both
+c. A special character
+d. Numerical digits 0-9
 	_The password is strong when it includes all the above conditions_
 
 5. Re-enter the password 
