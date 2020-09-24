@@ -21,15 +21,15 @@ The supported **_mobile_** web browsers
 
 ## Logging into Cumulocity IoT platform
 
+Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform
+
 <div align="center">
 <img src="images/Cumolocity_IoT_Login_Page_1.png" width="400" height="400">
 </div>
 
-Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform 
-
 **_Note:_** 
 - Username is case sensitive
-- Select the Remember me check box if you want to save the user credentials on the browser. Selecting the Remember me check box helps the application to log in automatically the next time. 
+- Select the "Remember me" check box if you want to save the user credentials on the browser. Selecting the "Remember me" check box helps the application to log in automatically the next time. 
 
 
 After successful login , you will be redirected to _Cockpit_ - the Cumulocity IoT platform.
@@ -55,10 +55,10 @@ A pop-up dialog box **_Edit user_** appreas on the browser
 --------
 
 The below fields can be changed in Edit user dialog box
-- First Name
-- Last Name
-- Telephone 
-  
+* First Name
+* Last Name
+* Telephone 
+<p>&nbsp;</p>
   **_Note:_** A country code must be entered before the full national phone number
 - Language
   
