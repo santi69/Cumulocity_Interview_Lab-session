@@ -20,7 +20,7 @@ You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
 
 ### Logging into Cumulocity IoT platform
 ---------------------------------------------------------------------------------------------
-![Login](images/Cumolocity_IoT_Login_Page_1.png)
+![Login | 300X300](images/Cumolocity_IoT_Login_Page_1.png)
 
 Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform 
 
@@ -78,10 +78,10 @@ The below steps explains how the user can reset the password
 ![300X300](images/ChangePassword_4.png)
 
 * **Note :** The password must contain
--   At least 8 characters
--  Uppercase or lowercase characters or both
--  A special character
--  Numerical digits 0-9
+  1. At least 8 characters
+  2. Uppercase or lowercase characters or both
+  3. A special character
+  4. Numerical digits 0-9
 
 	_The password is strong when it includes all the above conditions_
 
