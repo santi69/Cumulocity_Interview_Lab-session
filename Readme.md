@@ -44,7 +44,7 @@ To change user specific details
 1. Click on the User button on the top right corner 
 2. Click on User settings to edit or change the user details 
 
-A pop-up dialog box ** _Edit user_** appreas on the browser 
+A pop-up dialog box **_Edit user_** appreas on the browser 
 
 <div align="center">
 <img src="images/EditUser_3.png" width="400" height="400">
