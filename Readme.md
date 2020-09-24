@@ -21,7 +21,7 @@ You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
 ### Logging into Cumulocity IoT platform
 ---------------------------------------------------------------------------------------------
 <div align="center">
-<img src="images/Cumolocity_IoT_Login_Page_1.png" width="500" height="500" align="center">
+<img src="images/Cumolocity_IoT_Login_Page_1.png" width="400" height="500">
 </div>
 
 Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform 
@@ -33,8 +33,9 @@ Enter your _login credentials_ and click on _Login_ button to enter the Cumuloci
 
 After successful login , you will be redirected to _Cockpit_ - the Cumulocity IoT platform.
 <div align="center">
-<img src="images/Login_page_2.png" align="center">
+<img src="images/Login_page_2.png">
 </div>
+
 ### User Settings 
 ------------------------------------------------------------------------------------------
 To change user specific details 
@@ -44,7 +45,7 @@ To change user specific details
 
 A pop-up dialog box ** _Edit user_** appreas on the browser 
 <div align="center">
-<img src="images/EditUser_3.png" width="500" height="500" align="center">
+<img src="images/EditUser_3.png" width="400" height="500">
 </div>
 
 #### Updating the user specific details in the Edit user dialog box
@@ -80,7 +81,7 @@ The below steps explains how the user can reset the password
 3. Click on Change password button under Login options
 4. Enter the new password
 <div align="center">
-<img src="images/ChangePassword_4.png" width="500" height="500">
+<img src="images/ChangePassword_4.png" width="400" height="500">
 </div>
 
 * **Note :** The password must contain
