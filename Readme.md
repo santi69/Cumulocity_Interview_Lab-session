@@ -77,7 +77,7 @@ The below steps explains how the user can reset the password
 2. Click on User settings 
 3. Click on Change password button under Login options
 4. Enter the new password
-<img src="images/ChangePassword_4.png" width="300" height="300" align="center">
+<img align ="center" src="images/ChangePassword_4.png" width="300" height="300">
 
 * **Note :** The password must contain
   1. At least 8 characters
