@@ -51,7 +51,7 @@ A pop-up dialog box **_Edit user_** appears on the browser
 <img src="images/EditUser_3.png" width="400" height="400">
 </div>
 
-### Updating the user-specific details in the Edit user dialog box
+### Updating user details
 
 
 The below fields can be changed in the Edit user dialog box
