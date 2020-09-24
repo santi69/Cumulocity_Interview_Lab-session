@@ -1,8 +1,8 @@
 # Introduction to Cumulocity IoT platform
 
-## Logging into Cumulocity IoT platform and describing the User Settings
+## Overview
 
-The instructions explain how a user can **_log-in_** to the Cumulocity IoT platform and also use **_Edit user dialog_** functionality.
+The instructions below explain how a user can **_log-in_** to the Cumulocity IoT platform and also use **_Edit user dialog_** functionality.
 
 ## Accessing Cumulocity IoT platform 
 You can access the Cumulocity IoT platform by desktop and mobile web browsers.
@@ -56,11 +56,13 @@ A pop-up dialog box **_Edit user_** appears on the browser
 
 The below fields can be changed in the Edit user dialog box
 
+- Login alias
+- Email 
 - First Name   
 - Last Name   
 - Telephone    
 
-  **_Note:_** A country code must be entered before the full national phone number
+  **_Note:_** International phone number required, in the format +49 9 876 543 210.
 - Language
 
   **_Note:_** The list of available languages to choose are:
@@ -76,9 +78,6 @@ The below fields can be changed in the Edit user dialog box
    - Russian  
    - Chinese   
  
-
-**Comment:**  Assuming Username, Login alias, and Email can´t be edited.
-
 
 ## Changing password
 
@@ -99,10 +98,9 @@ The below steps explains how the user can reset the password
   3. A special character
   4. Numerical digits 0-9
 
-	_The password is strong when it includes all the above conditions_
+  _The password is strong when it includes all the above conditions_
 
 5. Re-enter the password 
 6. Click on Save to save your new password.
-
 
 
