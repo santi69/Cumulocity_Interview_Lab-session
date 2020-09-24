@@ -32,6 +32,7 @@ Enter your _login credentials_ and click on _Login_ button to enter the Cumuloci
 
 
 After successful login , you will be redirected to _Cockpit_ - the Cumulocity IoT platform.
+
 <div align="center">
 <img src="images/Login_page_2.png">
 </div>
@@ -44,6 +45,7 @@ To change user specific details
 2. Click on User settings to edit or change the user details 
 
 A pop-up dialog box ** _Edit user_** appreas on the browser 
+
 <div align="center">
 <img src="images/EditUser_3.png" width="400" height="400">
 </div>
@@ -80,6 +82,7 @@ The below steps explains how the user can reset the password
 2. Click on User settings 
 3. Click on Change password button under Login options
 4. Enter the new password
+
 <div align="center">
 <img src="images/ChangePassword_4.png" width="300" height="400">
 </div>
