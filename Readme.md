@@ -50,9 +50,9 @@ The below fields can be changed in Edit user dialog box
 - First Name
 - Last Name
 - Telephone 
-	**_Note:_** A country code must be entered before the full national phone number
+  **_Note:_** A country code must be entered before the full national phone number
 - Language
-	**_Note:_** The list of available languages to choose are:
+  **_Note:_** The list of available languages to choose are:
 - English (default)
 - Deutsch
 - Spanish
