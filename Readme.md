@@ -55,16 +55,16 @@ The below fields can be changed in Edit user dialog box
 - Language
   
   **_Note:_** The list of available languages to choose are:
-- English (default)
-- Deutsch
-- Spanish
-- French
-- Korean
-- Japanese
-- Polish
-- Brazilian Portuguese
-- Russian
-- Chinese 
+  - English (default)
+  - Deutsch
+  - Spanish
+  - French
+  - Korean
+  - Japanese
+  - Polish
+  - Brazilian Portuguese
+  - Russian
+  - Chinese 
 
 **Comment:**  Assuming Username, Login alias and Email can´t be editted.
 
