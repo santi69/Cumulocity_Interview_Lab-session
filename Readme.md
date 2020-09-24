@@ -7,16 +7,13 @@ The instructions explain how an user can **_log-in_** to the Cumulocity IoT plat
 ## Accessing Cumulocity IoT platform 
 You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
 
-### The supported **_desktop_** web browsers
----------
-
+The supported **_desktop_** web browsers
 - Google Chrome (latest version)
 - Firefox (latest version)
 - Internet Explorer (lastest version)
 - Edge (lastest version)
 
-### The supported **_mobile_** web browsers
---------------
+The supported **_mobile_** web browsers
 - Safari on iOS 
 - Chrome on iOS and Android
 
