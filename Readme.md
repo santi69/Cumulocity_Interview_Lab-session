@@ -56,27 +56,26 @@ A pop-up dialog box **_Edit user_** appreas on the browser
 
 The below fields can be changed in Edit user dialog box
 
-<li>
-- First Name
-- Last Name
-- Telephone 
- </li> 
+- First Name  
+- Last Name  
+- Telephone   
+
   **_Note:_** A country code must be entered before the full national phone number
 - Language
 
   **_Note:_** The list of available languages to choose are:
-  </li>
-  - English (default)
-  - Deutsch
-  - Spanish
-  - French
-  - Korean
-  - Japanese
-  - Polish
-  - Brazilian Portuguese
-  - Russian
-  - Chinese 
-  </li>
+
+   - English (default)  
+   - Deutsch  
+   - Spanish  
+   - French  
+   - Korean  
+   - Japanese  
+   - Polish  
+   - Brazilian Portuguese  
+   - Russian  
+   - Chinese   
+ 
 
 **Comment:**  Assuming Username, Login alias and Email can´t be editted.
 
