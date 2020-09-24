@@ -2,16 +2,16 @@
 
 ## Logging into Cumulocity IoT platform and describing the User Settings
 
-The instructions explain how an user can **_log-in_** to the Cumulocity IoT platform and also use **_Edit user dialog_** functionality.
+The instructions explain how a user can **_log-in_** to the Cumulocity IoT platform and also use **_Edit user dialog_** functionality.
 
 ## Accessing Cumulocity IoT platform 
-You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
+You can access the Cumulocity IoT platform by desktop and mobile web browsers.
 
 The supported **_desktop_** web browsers
 - Google Chrome (latest version)
 - Firefox (latest version)
-- Internet Explorer (lastest version)
-- Edge (lastest version)
+- Internet Explorer (latest version)
+- Edge (latest version)
 
 The supported **_mobile_** web browsers
 - Safari on iOS 
@@ -29,10 +29,10 @@ Enter your _login credentials_ and click on _Login_ button to enter the Cumuloci
 
 **_Note:_** 
 - Username is case sensitive
-- Select the "Remember me" check box if you want to save the user credentials on the browser. Selecting the "Remember me" check box helps the application to log in automatically the next time. 
+- Select the "Remember me" checkbox if you want to save the user credentials on the browser. Selecting the "Remember me" checkbox helps the application to log in automatically the next time. 
 
 
-After successful login , you will be redirected to _Cockpit_ - the Cumulocity IoT platform.
+After successful login, you will be redirected to _Cockpit_ - the Cumulocity IoT platform.
 
 <div align="center">
 <img src="images/Login_page_2.png">
@@ -40,21 +40,21 @@ After successful login , you will be redirected to _Cockpit_ - the Cumulocity Io
 
 ## User Settings 
 
-To change user specific details 
+To change user-specific details 
 
 1. Click on the User button on the top right corner 
 2. Click on User settings to edit or change the user details 
 
-A pop-up dialog box **_Edit user_** appreas on the browser 
+A pop-up dialog box **_Edit user_** appears on the browser 
 
 <div align="center">
 <img src="images/EditUser_3.png" width="400" height="400">
 </div>
 
-### Updating the user specific details in the Edit user dialog box
+### Updating the user-specific details in the Edit user dialog box
 --------
 
-The below fields can be changed in Edit user dialog box
+The below fields can be changed in the Edit user dialog box
 
 - First Name   
 - Last Name   
@@ -77,7 +77,7 @@ The below fields can be changed in Edit user dialog box
    - Chinese   
  
 
-**Comment:**  Assuming Username, Login alias and Email can´t be editted.
+**Comment:**  Assuming Username, Login alias, and Email can´t be edited.
 
 
 ## Changing password
@@ -86,14 +86,14 @@ The below steps explains how the user can reset the password
 
 1. Click on the User button on the top right corner 
 2. Click on User settings 
-3. Click on Change password button under Login options
+3. Click on the Change password button under Login options
 4. Enter the new password
 
 <div align="center">
 <img src="images/ChangePassword_4.png" width="300" height="400">
 </div>
 
-* **Note :** The password must contain
+* **Note:** The password must contain
   1. At least 8 characters
   2. Uppercase or lowercase characters or both
   3. A special character
