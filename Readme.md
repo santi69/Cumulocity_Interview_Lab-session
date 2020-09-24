@@ -43,10 +43,8 @@ To change user specific details
 
 A pop-up dialog box ** _Edit user_** appreas on the browser 
 
-![300X300](images/EditUser_3.png)
-img [alt = 300X300]
-{width:300px;
-height:300px;}
+![300X300](images/EditUser_3.png=250*150)
+
 
 #### Updating the user specific details in the Edit user dialog box
 The below fields can be changed in Edit user dialog box
