@@ -55,14 +55,15 @@ A pop-up dialog box **_Edit user_** appreas on the browser
 --------
 
 The below fields can be changed in Edit user dialog box
-<li>
-* First Name
-* Last Name
-* Telephone 
 
+<li>
+- First Name
+- Last Name
+- Telephone 
+ </li> 
   **_Note:_** A country code must be entered before the full national phone number
 - Language
- </li> 
+
   **_Note:_** The list of available languages to choose are:
   </li>
   - English (default)
