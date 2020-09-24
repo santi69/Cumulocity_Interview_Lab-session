@@ -52,7 +52,7 @@ A pop-up dialog box **_Edit user_** appears on the browser
 </div>
 
 ### Updating the user-specific details in the Edit user dialog box
---------
+
 
 The below fields can be changed in the Edit user dialog box
 
