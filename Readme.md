@@ -20,7 +20,7 @@ You can access the Cumulocity IoT platfrom by desktop and mobile web browsers.
 
 ### Logging into Cumulocity IoT platform
 ---------------------------------------------------------------------------------------------
-![Login | 300X300](images/Cumolocity_IoT_Login_Page_1.png)
+![Login | 300X300,20%](images/Cumolocity_IoT_Login_Page_1.png)
 
 Enter your _login credentials_ and click on _Login_ button to enter the Cumulocity IoT platform 
 
