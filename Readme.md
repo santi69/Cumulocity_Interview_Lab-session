@@ -1,3 +1,5 @@
+##Introduction to Cumulocity IoT platform
+
 ### Logging into Cumulocity IoT platform and describing the User Settings
 -------------------------------------------------------------------------------------
 The instructions explain how an user can **_log-in_** to the Cumulocity IoT platform and also use **_Edit user dialog_** functionality.
