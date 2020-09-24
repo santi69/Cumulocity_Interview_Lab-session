@@ -56,9 +56,9 @@ A pop-up dialog box **_Edit user_** appreas on the browser
 
 The below fields can be changed in Edit user dialog box
 
-- First Name  
-- Last Name  
-- Telephone   
+- First Name   
+- Last Name   
+- Telephone    
 
   **_Note:_** A country code must be entered before the full national phone number
 - Language
