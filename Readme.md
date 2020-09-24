@@ -1,4 +1,6 @@
 ## Introduction to Cumulocity IoT platform
+-------------------------------------------------
+
 
 ### Logging into Cumulocity IoT platform and describing the User Settings
 -------------------------------------------------------------------------------------
