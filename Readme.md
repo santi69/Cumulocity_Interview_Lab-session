@@ -92,7 +92,7 @@ The below steps explains how the user can reset the password
 <img src="images/ChangePassword_4.png" width="300" height="400">
 </div>
 
-* **Note:** The password must have atleast 8 characters and no more than 32
+* **Note:** The password must have atleast 8 characters and no more than 32.  
 Password Strength Indicator will display how strong is your password.  
 There are three indicators **_weak_**, **_medium_** and **_strong_**.  
 **_Strong_** password is when you have the password with combinations of uppercase, lowecase, numbers and special characters  
