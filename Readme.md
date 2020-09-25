@@ -92,13 +92,10 @@ The below steps explains how the user can reset the password
 <img src="images/ChangePassword_4.png" width="300" height="400">
 </div>
 
-* **Note:** The password must contain
-  1. At least 8 characters
-  2. Uppercase or lowercase characters or both
-  3. A special character
-  4. Numerical digits 0-9
+* **Note:** The password must have atleast 8 characters and no more than 32.
+Password Strength Indicator will display how strong is your password. There are three indicators _week_, _medium_ and _strong_.
+_Strong_ password is when you have the password with combinations of uppercase, lowecase, numbers and special characters. 
 
-  _The password is strong when it includes all the above conditions_
 
 5. Re-enter the password 
 6. Click on Save to save your new password.
